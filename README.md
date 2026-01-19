@@ -1,6 +1,6 @@
 # 💫 About Me
 
-Hi 👋 I'm **Kaushik Arshibhai Ladumor**  
+Hi 👋 I'm **Kaushik Ladumor**  
 🎓 B.Tech Computer Science & Engineering student at **Ahmedabad University**  
 💻 **MERN Stack Developer** dedicated to creating efficient, reliable, and user-friendly solutions  
 🌱 Interests: **Full-Stack Development, Data Engineering, SQL Development**  
