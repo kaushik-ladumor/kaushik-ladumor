@@ -3,7 +3,7 @@
 Hi 👋 I'm **Kaushik Ladumor**  
 🎓 B.Tech Computer Science & Engineering student at **Ahmedabad University**  
 💻 **MERN Stack Developer** dedicated to creating efficient, reliable, and user-friendly solutions  
-🌱 Interests: **Full-Stack Development, Data Engineering, SQL Development**  
+🌱 Interests: **Full-Stack Development, Data Analyst, SQL Development**  
 🤝 Open to **Open Source Contributions**
 
 ---
