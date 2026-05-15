@@ -67,7 +67,7 @@ Hi 👋 I'm **Kaushik Ladumor**
 
 ---
 
-📫 **Email:** kaushik.l@ahduni.edu.in  
+📫 **Email:** kaushik.ladumor04@gmail.com  
 📍 **Location:** Ahmedabad, Gujarat  
 
 ⭐ *Focused on learning, consistency, and building real-world applications*
