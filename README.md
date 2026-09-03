@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kaushik Ladumor
 
-### 💻 MERN Stack Developer | 📊 Data Analyst
+### 💻 Full Stack Developer | 📊 Data Analyst
 
 I'm a **Computer Science & Engineering graduate from Ahmedabad University** with a strong interest in **Full-Stack Development and Data Analytics**.
 
@@ -75,83 +75,6 @@ I enjoy building **responsive, user-focused web applications** and working with 
   <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
 </p>
-
----
-
-## 🚀 Featured Projects
-
-### 🛍️ ClothOra — Full-Stack E-Commerce
-
-A full-stack MERN e-commerce application focused on providing a responsive shopping experience.
-
-**Highlights:**
-
-* ⚛️ React.js + Tailwind CSS responsive UI
-* 🔐 OTP-based authentication
-* 🛒 Product catalog, cart & order processing
-* 🔌 RESTful APIs
-* 💳 Razorpay & Cash on Delivery checkout
-* ☁️ Cloudinary image management
-* 🛠️ Complete admin dashboard
-
----
-
-### 🌍 Wanderlust — Travel & Stay Listing Platform
-
-A travel listing and review web application built with Node.js, Express.js, MongoDB, and EJS.
-
-**Highlights:**
-
-* 🔐 OTP-based authentication
-* 👥 Role-based access control
-* 🛡️ Passport.js authentication
-* 📧 Nodemailer integration
-* 🗺️ Mapbox API for interactive property mapping
-* ⭐ Travel listings and review functionality
-
----
-
-### 📊 Rohit Sharma Career Stats — Power BI Dashboard
-
-An interactive Power BI dashboard built to analyze cricket career statistics using Excel data.
-
-**Analysis includes:**
-
-* 🏏 Runs
-* 📈 Batting Average
-* ⚡ Strike Rate
-* 🔥 Boundaries
-* 📊 ODI, T20I & Test comparisons
-* 📅 Year-wise performance trends
-* 🧹 Excel data cleaning
-* 🎛️ Dynamic Power BI slicers
-
----
-
-## 💼 Experience
-
-### React.js Trainee — Tagline Infotech LLP
-
-**Jun 2026 – Jul 2026**
-
-* Completed a React.js trainee internship in a professional development environment.
-* Gained hands-on exposure to React.js development and team workflows.
-* Recognized for sincerity, dedication, and hard work during the internship.
-
----
-
-## 🎓 Education
-
-**B.Tech — Computer Science & Engineering**
-Ahmedabad University
-**2022 – 2026**
-
----
-
-## 📜 Certification
-
-**Delta 4.0 – Full Stack Web Development**
-Apna College · **Aug – Dec 2024**
 
 ---
 
