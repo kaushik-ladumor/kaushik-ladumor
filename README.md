@@ -1,73 +1,196 @@
-# 💫 About Me
+# 👋 Hi, I'm Kaushik Ladumor
 
-Hi 👋 I'm **Kaushik Ladumor**  
-🎓 B.Tech Computer Science & Engineering student at **Ahmedabad University**  
-💻 **MERN Stack Developer** dedicated to creating efficient, reliable, and user-friendly solutions  
-🌱 Interests: **Full-Stack Development, Data Analyst, SQL Development**  
-🤝 Open to **Open Source Contributions**
+### 💻 MERN Stack Developer | 📊 Data Analyst
 
----
+I'm a **Computer Science & Engineering graduate from Ahmedabad University** with a strong interest in **Full-Stack Development and Data Analytics**.
 
-## 🌐 Socials
+I enjoy building **responsive, user-focused web applications** and working with data to discover meaningful insights through **SQL, Python, Excel, and Power BI**.
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kaushik_ahir04)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kaushik-ladumor-3a7b18290)
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=black)](https://leetcode.com/u/kaushik_04/)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/kaushik-ladumor)
+* 🔭 Currently focused on **MERN Stack Development & Data Analytics**
+* 💻 Building full-stack applications with **React.js, Node.js, Express.js & MongoDB**
+* 📊 Exploring **Data Analysis, SQL, Power BI & Data Visualization**
+* 🌱 Continuously improving my development and analytical skills
+* 🤝 Open to **Open Source Contributions & Development Opportunities**
 
 ---
 
-## 💻 Tech Stack
+## 🛠️ Tech Stack
 
-### 🧠 Languages
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![NoSQL](https://img.shields.io/badge/NoSQL-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### 💻 Languages
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+### ⚛️ Frameworks & Libraries
+
+<p>
+  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/EJS-90A93A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+</p>
+
+### 📊 Data Analysis & Visualization
+
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-4C8CBF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+</p>
+
+### 🗄️ Databases
+
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+### 🔌 APIs & Backend
+
+<p>
+  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Passport.js-34E27A?style=for-the-badge&logo=passport&logoColor=black" />
+  <img src="https://img.shields.io/badge/Nodemailer-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+</p>
+
+### 🧰 Tools & Platforms
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+</p>
 
 ---
 
-### 🧩 Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![EJS](https://img.shields.io/badge/EJS-90A93A?style=for-the-badge)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge)
-![Passport.js](https://img.shields.io/badge/Passport.js-34E27A?style=for-the-badge&logo=passport&logoColor=black)
-![Multer](https://img.shields.io/badge/Multer-FF6F00?style=for-the-badge)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+## 🚀 Featured Projects
+
+### 🛍️ ClothOra — Full-Stack E-Commerce
+
+A full-stack MERN e-commerce application focused on providing a responsive shopping experience.
+
+**Highlights:**
+
+* ⚛️ React.js + Tailwind CSS responsive UI
+* 🔐 OTP-based authentication
+* 🛒 Product catalog, cart & order processing
+* 🔌 RESTful APIs
+* 💳 Razorpay & Cash on Delivery checkout
+* ☁️ Cloudinary image management
+* 🛠️ Complete admin dashboard
 
 ---
 
-### 🛠 Tools & Platforms
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+### 🌍 Wanderlust — Travel & Stay Listing Platform
+
+A travel listing and review web application built with Node.js, Express.js, MongoDB, and EJS.
+
+**Highlights:**
+
+* 🔐 OTP-based authentication
+* 👥 Role-based access control
+* 🛡️ Passport.js authentication
+* 📧 Nodemailer integration
+* 🗺️ Mapbox API for interactive property mapping
+* ⭐ Travel listings and review functionality
+
+---
+
+### 📊 Rohit Sharma Career Stats — Power BI Dashboard
+
+An interactive Power BI dashboard built to analyze cricket career statistics using Excel data.
+
+**Analysis includes:**
+
+* 🏏 Runs
+* 📈 Batting Average
+* ⚡ Strike Rate
+* 🔥 Boundaries
+* 📊 ODI, T20I & Test comparisons
+* 📅 Year-wise performance trends
+* 🧹 Excel data cleaning
+* 🎛️ Dynamic Power BI slicers
+
+---
+
+## 💼 Experience
+
+### React.js Trainee — Tagline Infotech LLP
+
+**Jun 2026 – Jul 2026**
+
+* Completed a React.js trainee internship in a professional development environment.
+* Gained hands-on exposure to React.js development and team workflows.
+* Recognized for sincerity, dedication, and hard work during the internship.
+
+---
+
+## 🎓 Education
+
+**B.Tech — Computer Science & Engineering**
+Ahmedabad University
+**2022 – 2026**
+
+---
+
+## 📜 Certification
+
+**Delta 4.0 – Full Stack Web Development**
+Apna College · **Aug – Dec 2024**
 
 ---
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=kaushik-ladumor&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/> ![](https://nirzak-streak-stats.vercel.app/?user=kaushik-ladumor&theme=dark&hide_border=false)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kaushik-ladumor&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kaushik-ladumor&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=kaushik-ladumor&theme=tokyonight&hide_border=true" height="165"/>
+</p>
 
---- 
-[![](https://visitcount.itsvg.in/api?id=kaushik-ladumor&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaushik-ladumor&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+</p>
 
 ---
 
-📫 **Email:** kaushik.ladumor04@gmail.com  
-📍 **Location:** Ahmedabad, Gujarat  
+## 🌐 Connect With Me
 
-⭐ *Focused on learning, consistency, and building real-world applications*
+<p align="left">
+  <a href="https://github.com/kaushik-ladumor">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/kaushik-ladumor-3a7b18290">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/kaushik_04/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="mailto:kaushik.ladumor04@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  ⭐ <i>Building. Learning. Improving.</i> ⭐
+</p>
+
+<p align="center">
+  <i>Focused on creating real-world applications and turning ideas into practical solutions.</i>
+</p>
